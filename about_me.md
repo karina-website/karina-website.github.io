@@ -3,6 +3,7 @@ layout: page
 title: About Me
 description: Learn more about my background and credentials
 nav-menu: true
+image: assets/images/pic08.jpg
 ---
 
 <!-- Main -->

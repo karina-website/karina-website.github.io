@@ -34,5 +34,3 @@ markdown: kramdown
 
 sass:
   style: compressed
-
-<link rel="stylesheet" href="{{ "/assets/css/main.css, " | prepend: site.baseurl }}">
