@@ -4,7 +4,6 @@ subtitle: Therapy for Everyone
 email: youremailaddress@gmail.com
 description: "Ready to get started?"
 baseurl: "" # the subpath of your site, e.g. /blog
-relative_url: https://karina-website.github.io 
 url:  https://karina-website.github.io # the base hostname & protocol for your site
 street_address: 1234 Somewhere Road
 city: Nashville
