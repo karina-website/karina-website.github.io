@@ -5,6 +5,7 @@ email: youremailaddress@gmail.com
 description: "Ready to get started?"
 baseurl: "" # the subpath of your site, e.g. /blog
 url:  http://karina-website.github.io/karina.github.io # the base hostname & protocol for your site
+relative_url: http://karina-website.github.io/karina.github.io
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
