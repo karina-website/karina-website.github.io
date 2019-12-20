@@ -22,5 +22,4 @@ description: What should you expect when you come in?
 				</p>
 			</div>
 		</div>
-	</section>
-</div>
+</section>
