@@ -16,10 +16,8 @@ description: What should you expect when you come in?
 	</div>
 </section>
 <section id="two" class="spotlights">
-		<div class="content">
-			<div class="inner">
+		<div class="inner">
 				<p>My goal is the first session is to get to know you and what brought us together, what seems to be the problem or problems, and what you expect to get out our meetings together. Therapy is very personal process and , similar to other human relationships, and is very different for each particular relationship. The first session is exploratory is nature, so a lot of questions will be asked by both parties.
-				</p>
 			</div>
 		</div>
 </section>
