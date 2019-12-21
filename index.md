@@ -1,11 +1,12 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Karina!'
+landing-title: 'Karina Suero: Here to help'
 description: "Everyone needs help sometimes"
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+
+Karina is a systemic oriented therapist,  with a strong belief in the power of relationships. She is certified in ESFT, and practices attachment based, trauma informed approaches, to help her patients deal with anxiety, depression, social issues and family struggles. Specializing in mindfulness and family practice, she uses kindness and bolstering reinforcement techniques to ensure the best possible outcomes. She is fluent in both english and spanish and is willing to help any type of client, from children to those of more advanced age. She is extremely happy to work with whole familes. Contact her now for a free phone consultation and to set up your first session. 

@@ -7,16 +7,16 @@ image: assets/images/pic08.jpg
 ---
 
 <!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
 <section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>About Me</h1>
-		</header>
+  <div class="inner">
+    <header class="major">
+      <h2>Karina Suero</h2>
+    </header>
+    <span class="image fit"><img src="assets/images/karina.jpg" alt="" /></span>
+    <p>
+      Karina was born in Spain and obtained a medical degree there, before moving to the US, where she raised three children, before resuming her life-long passion of helping others. 
 
-<!-- Content -->
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
-
-</div>
+      She is an experienced systemic family therapist, with an attachment based, trauma informed approach, and has worked 3+ years in a family based settings, with a variety of populations and different kinds of issues, including depression, attachment problems, defiant and aggressive behaviors, truancy and other issues. She has worked with single parent families  intact families and step and foster families.  She is also experienced in acculturation and rebalancing power in the context of multicultural families, including immigrant and families with deaf caregivers. 
+</p>
+  </div>
+</section>
