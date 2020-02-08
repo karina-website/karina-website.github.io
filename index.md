@@ -16,3 +16,8 @@ Therapy is about learning about ones-self, growing as a person, and ultimately h
 Being part of therapy, be it for the first time or for the hundredth time, and be a daunting and anxiety riddled process. However, it is less scary than it first seems, and its often the first step towards a more meaningful life. 
 
 Contact her now for a free phone consultation and to set up your first session. 
+
+<!-- Professional verification provided by Psychology Today --> 
+<a href="https://www.psychologytoday.com/profile/720122" class="sx-verified-seal"></a> 
+<script type="text/javascript" src="https://member.psychologytoday.com/verified-seal.js" data-badge="13" data-id="720122" data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy9bQkFER0VdL3Byb2ZpbGUvW1BST0ZJTEVfSURdP2NhbGxiYWNrPXN4Y2FsbGJhY2s="></script> 
+<!-- End Verification -->
