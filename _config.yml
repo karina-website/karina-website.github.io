@@ -14,7 +14,7 @@ phone: (484) 639 9475
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 4
+tiles-count: 9
 
 # social settings
 500px_url:
