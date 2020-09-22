@@ -10,7 +10,7 @@ image: assets/images/pic07.jpg
 <section id="one">
   <div class="inner">
     <header class="major">
-      <h2>Partner Suicide</h2>
+      <h2>Violent Kids</h2>
     </header>
     <p>
         You really love your kids. You would like to make things better for your child. You tried everything that you could think of. It seems like nothing works. And what’s worse is, you feel out of control in your own life and over your life. Sometimes you feel you are a prisoner in your own home. It is hard to remember what was to feel warm about your kid. It’s hard to remember the feeling you had when you first had that baby in your arms, all those dreams. You are running out of options. Sometimes, being away from your kids feels like the only way you can actually have a life.  Sometimes, getting your kid in a residential facility seems like the only viable option. It feels desperate, and lonely. Nobody can imagine what this feels like. 
