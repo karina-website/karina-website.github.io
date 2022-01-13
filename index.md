@@ -21,3 +21,5 @@ Contact her now for a free phone consultation and to set up your first session.
 <a href="https://www.psychologytoday.com/profile/720122" class="sx-verified-seal"></a> 
 <script type="text/javascript" src="https://member.psychologytoday.com/verified-seal.js" data-badge="13" data-id="720122" data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy9bQkFER0VdL3Byb2ZpbGUvW1BST0ZJTEVfSURdP2NhbGxiYWNrPXN4Y2FsbGJhY2s="></script> 
 <!-- End Verification -->
+
+<a href="https://docs.google.com/document/d/1B6LcsS7DaftmEB7kRcwc5A4BDMX4pE9V/edit?usp=sharing&ouid=112256765262151055539&rtpof=true&sd=true"> Official Disclosure </a>
