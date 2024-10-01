@@ -3,7 +3,7 @@ title: Karina T. Suero LMFT
 subtitle: Therapy for Everyone
 email: karinasuero8@protonmail.com
 description: "Ready to get started?"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url:  www.karina-therapy.com # the base hostname & protocol for your site
 street_address: 36 E Front Street 
 city: Media
