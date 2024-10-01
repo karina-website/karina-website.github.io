@@ -4,7 +4,7 @@ subtitle: Therapy for Everyone
 email: karinasuero8@protonmail.com
 description: "Ready to get started?"
 baseurl: "" # the subpath of your site, e.g. /blog
-url:  https://karina-website.github.io # the base hostname & protocol for your site
+url:  "www.karina-therapy.com" # the base hostname & protocol for your site
 street_address: 36 E Front Street 
 city: Media
 state: PA
